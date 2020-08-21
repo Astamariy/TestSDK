@@ -1,0 +1,20 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "0.1",
+  "iOS" : [
+    {
+      "hash" : "f29dbeae9e6c02ec01344536231cce7620b40c9f159a6df9d7742dbd0ae8776a",
+      "name" : "MTSMarvinSDK",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+    }
+  ]
+}
