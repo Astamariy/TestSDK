@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MTSMarvinSDK"
-  spec.version      = "0.0.1"
+  spec.version      = "0.1"
   spec.summary      = "Describe smth of MTSMarvinSDK."
   spec.description  = "sjdkjskdjsk"
 
@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
 
   spec.author             = { "ARuzmanov" => "ARuzmanov@stream.ru" }
 
-  spec.source       = { :git => "http://test.com/MTSMarvinSDK.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/Astamariy/TestSDK.git", :tag => "#{spec.version}" }
 
   spec.source_files  = "MTSMarvinSDK/**/*.{swift,h,m}"
   spec.exclude_files = "MTSMarvinSDK/**/*.{plist}"
