@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "8c30ff8f4d18bd9a97d286eaeade8a46"
+build_time: [1598010349, 45847000]
+inputs:
+  "/Users/aruzmanov/Developing/MTSMarvinSDK/Sources/MTSMarvinSDK/Marvin.swift": [1598008496, 48637642]

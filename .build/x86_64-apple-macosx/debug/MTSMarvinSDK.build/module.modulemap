@@ -1,0 +1,4 @@
+module MTSMarvinSDK {
+    header "/Users/aruzmanov/Developing/MTSMarvinSDK/.build/x86_64-apple-macosx/debug/MTSMarvinSDK.build/MTSMarvinSDK-Swift.h"
+    requires objc
+}

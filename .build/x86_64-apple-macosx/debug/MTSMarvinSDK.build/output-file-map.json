@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/aruzmanov/Developing/MTSMarvinSDK/.build/x86_64-apple-macosx/debug/MTSMarvinSDK.build/master.swiftdeps"
+  },
+  "/Users/aruzmanov/Developing/MTSMarvinSDK/Sources/MTSMarvinSDK/Marvin.swift": {
+    "dependencies": "/Users/aruzmanov/Developing/MTSMarvinSDK/.build/x86_64-apple-macosx/debug/MTSMarvinSDK.build/Marvin.d",
+    "object": "/Users/aruzmanov/Developing/MTSMarvinSDK/.build/x86_64-apple-macosx/debug/MTSMarvinSDK.build/Marvin.swift.o",
+    "swiftmodule": "/Users/aruzmanov/Developing/MTSMarvinSDK/.build/x86_64-apple-macosx/debug/MTSMarvinSDK.build/Marvin~partial.swiftmodule",
+    "swift-dependencies": "/Users/aruzmanov/Developing/MTSMarvinSDK/.build/x86_64-apple-macosx/debug/MTSMarvinSDK.build/Marvin.swiftdeps"
+  }
+}
