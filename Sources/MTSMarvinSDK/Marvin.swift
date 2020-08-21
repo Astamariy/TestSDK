@@ -1,1 +1,1 @@
-/Users/aruzmanov/Developing/MTSMarvinSDK/MTSMarvinSDK/Marvin.swift
+../../MTSMarvinSDK/MTSMarvinSDK/Marvin.swift
