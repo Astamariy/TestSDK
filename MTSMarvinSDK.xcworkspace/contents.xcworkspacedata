@@ -13,4 +13,7 @@
    <FileRef
       location = "group:MTSMarvinSDK.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:scripts">
+   </FileRef>
 </Workspace>

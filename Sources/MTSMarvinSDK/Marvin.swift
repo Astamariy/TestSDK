@@ -1,1 +1,1 @@
-../../MTSMarvinSDK/MTSMarvinSDK/Marvin.swift
+../../MTSMarvinSDK/Marvin.swift
