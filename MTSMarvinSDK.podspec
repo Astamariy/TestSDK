@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MTSMarvinSDK"
-  spec.version      = "0.1"
+  spec.version      = "1.3.0"
   spec.summary      = "Describe smth of MTSMarvinSDK."
   spec.description  = "sjdkjskdjsk"
 
